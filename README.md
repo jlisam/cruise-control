@@ -1,4 +1,5 @@
 Cruise Control for Apache Kafka
+
 ===================
 
 [![CircleCI](https://circleci.com/gh/linkedin/cruise-control.svg?style=svg)](https://circleci.com/gh/linkedin/cruise-control)
