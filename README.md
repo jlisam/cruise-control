@@ -1,4 +1,5 @@
 Cruise Control for Apache Kafka
+
 ===================
 
 [![CI](https://github.com/linkedin/cruise-control/actions/workflows/ci.yaml/badge.svg)](https://github.com/linkedin/cruise-control/actions/workflows/ci.yaml)
